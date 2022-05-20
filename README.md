@@ -30,12 +30,12 @@ Este design foi criado pelos impulssionadores da Rocketseat e apresentado no NLW
 
 
 
-Fiz algumas modicações para tornar-lho um pouco diferente da aplicação original, adicionei animações nos icones, mudei algumas bordas, modifiquei imagem e troquei a paleta de cores do layout original, já que com as variavéis criadas, as cores podem ser facilmente modificadas. <br/><br/>
+Fiz algumas modicações para tornar-lho um pouco diferente da aplicação original, adicionei animações nos icones, mudei algumas bordas, modifiquei imagem e troquei a paleta de cores do layout original. <br/><br/>
 
 <h4>English</h4>
 This design was created by Rocketseat Boosters and featured at NLW#6 Together - Origin, The project presented in this repository was created on the Origin track, where we went through the learning and practices of HTML, CSS, and JavaScript, where classes were given to beginners or those who wanted to reinforce this theoretical and technical knowledge. <br/><br/>
 
-I made some modifications to make it a little different from the original website, I added animations to the icons, changed some borders, modified the image, and changed the color palette of the original layout since, with the variables created, the colors can be easily modified. <br/> <br/>
+I made some modifications to make it a little different from the original website, I added animations to the icons, changed some borders, modified the image, and changed the color palette of the original layout. <br/> <br/>
 
 <h2 id="layout">🟩 Layout</h2> <br/>   <br/>
 
